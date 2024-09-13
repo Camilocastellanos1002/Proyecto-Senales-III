@@ -3,7 +3,7 @@
 
 # Integrantes
 * Juan Camilo Chaparro Castellanos
-* Sebastian Restrepo Valencia
+* Sebastian Escobar Osorio
 
 ## Miniproyecto #1
 ## RECONOCIMIENTO DE LEGUAJE DE SEÑAS PARA CONTROLAR  AUTOMOVIL EN PANTALLA
