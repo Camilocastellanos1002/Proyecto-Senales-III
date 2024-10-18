@@ -1,1 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+Miniproyecto\#2/caracteristicas_imagenes_final.csv filter=lfs diff=lfs merge=lfs -text
